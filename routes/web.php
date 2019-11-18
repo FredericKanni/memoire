@@ -18,5 +18,16 @@
 
 
 Route::view('/','welcome') ;
-Route::view('contact','contact') ;
-Route::view('a-propos','a-propos') ;
+Route::view('/contact','contact') ;
+Route::view('/a-propos','a-propos') ;
+Route::view('/je-participe','je-participe') ;
+
+Route::view('/memoires/video','memoires.video') ;
+Route::view('/memoires/photo','memoires.photo') ;
+Route::view('/memoires/article','memoires.article') ;
+
+
+
+
+
+
