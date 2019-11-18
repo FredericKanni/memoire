@@ -128,6 +128,11 @@
                                       <a class="dropdown-item" href="/memoires/article">article</a>
                                     </div>
                                   </li>
+
+                                  <li class="nav-item">
+                                    <a class="nav-link" href="/crud">CRUD</a>
+                                </li>
+                              
                         </ul>
                     </div>
                 </nav>
